@@ -1,4 +1,4 @@
-#Rubik's Cube Scanner and Solver (RubiBot)
+**#Rubik's Cube Scanner and Solver (RubiBot)**
 
 This project is a hybrid software-hardware system designed to scan, model, and physically solve a 
 3X3 Rubik's Cube. It integrates a computer vision scanning pipeline that calculates an optimal solving sequence with an Arduino-controlled robotic solver that physically executes the moves.
